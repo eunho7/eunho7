@@ -1,19 +1,13 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hakisilta)](https://solved.ac/hakisilta)
+<h1 align="center">👋SHIN EUN HO👋</h1>  
 
-![](./profile-3d-contrib/profile-green.svg)
+🎓 아주대학교 기계공학과 졸업  
+🔎 한국소프트웨어산업협회 MSA기반 Full Stack개발 6차  
+🗣
+<br><br>
+<a href="https://solved.ac/hakisilta"><img src="http://mazassumnida.wtf/api/generate_badge?boj=hakisilta" alt="Solved.ac Profile"></a>
+  
 
-<!--
-**eunho7/eunho7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
