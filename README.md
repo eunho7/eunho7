@@ -5,9 +5,3 @@
 🗣
 <br><br>
 <a href="https://solved.ac/hakisilta"><img src="http://mazassumnida.wtf/api/generate_badge?boj=hakisilta" alt="Solved.ac Profile"></a>
-  
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
