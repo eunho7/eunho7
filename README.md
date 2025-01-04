@@ -1,12 +1,19 @@
 <h1 align="center">👋SHIN EUN HO👋</h1>  
 
-안녕하세요. 신은호입니다. 
+Hello! I'm Eun Ho Shin. I'm junior developer. 
+</br>
 
-📑 경력  
-　🎓 아주대학교 기계공학과 졸업  
-　🔎 한국소프트웨어산업협회 MSA기반 Full Stack개발 6차  
-　🛠️ SQLD(개발자) 자격증, 정보처리기사(실기 합격 예정)  
- 　❗️개발자 취업 준비중,,,
+💼 Experience
+* Software Developer at Lead Data Systems
+
+📚 Education
+* Bachelor's degree in Mechanical Engineering from Ajou University
+* Boot Camp based on MSA for Full Stack Developer from Korea Software Industry Association  
+
+🛠️ License
+* SQLD(SQL Developer)
+* Engineer Information Processing(a practical test left)
+</br>
   
 🥇 1st stack  
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
