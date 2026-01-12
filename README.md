@@ -5,6 +5,7 @@ Hello! I'm Eun Ho Shin. I'm junior developer.
 
 💼 Experience
 * Software Developer at Lead Data Systems
+* Backend Developer at Eromnet
 
 📚 Education
 * Bachelor's degree in Mechanical Engineering from Ajou University
